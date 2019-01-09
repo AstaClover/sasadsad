@@ -1,10 +1,3 @@
-# Discord tipbot for Me
-This bot is written in Python 3.
-Overall it works without serious problems in digibyte discord community.
-However, I recommend you to use it CAREFULLY because we can see some unstable behavior.
-Otherwise, you'll lose some your DGB coins.
-
-Depends: discord.py, bitcoinrpc
 
 ## Install
 
