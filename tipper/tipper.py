@@ -8,7 +8,7 @@ rpc_ip = '127.0.0.1'
 rpc_port = 8321
 
 
-#Make rpc connection with ASPIRE core
+#Make rpc connection with MNPRO core
 def ServiceProxy():
     return AuthServiceProxy('http://%s:%s@%s:%i'%(rpc_username, rpc_password, rpc_ip, rpc_port))
 
